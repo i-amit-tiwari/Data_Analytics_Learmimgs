@@ -11,4 +11,4 @@ print(variable_name) # print() displays output
 if variable_name > 5:
     print("Greater than 5") # Indentation (usually 4 spaces) defines code blocks
 else:
-    print("Not greater than 5")
+    print("Not greater than 5") 
