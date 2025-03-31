@@ -1,0 +1,41 @@
+Day 1: Python Fundamentals - Basic Data Types, Operators, Lists & Control Flow (Part 1)
+
+Goal: Get comfortable with basic Python syntax, data storage (variables, lists), and making simple decisions/repetitions in code. This builds the foundation for everything else.
+
+Topics:
+
+Introduction: What is Python? Why use it for Data Analysis? (Briefly)
+
+Basic Syntax: Comments (#), indentation (crucial!).
+
+Variables: Assigning values, naming conventions.
+
+Fundamental Data Types:
+
+Integers (int)
+
+Floating-point numbers (float)
+
+Strings (str) - creation, basic methods (.upper(), .lower(), .strip(), f-strings).
+
+Booleans (bool) - True, False.
+
+Basic Operators:
+
+Arithmetic: +, -, *, /, // (floor division), % (modulo), ** (exponentiation).
+
+Comparison: ==, !=, >, <, >=, <=.
+
+Logical: and, or, not.
+
+Lists:
+
+Creating lists: my_list = [1, "hello", 3.14, True]
+
+Accessing elements: Indexing (starts at 0) my_list[0].
+
+Slicing: my_list[1:3] (gets elements at index 1 and 2).
+
+Modifying lists: Changing elements my_list[1] = "world".
+
+Common List Methods: .append(), .insert(), .pop(), .remove(), .sort(), len().
