@@ -38,4 +38,4 @@ Slicing: my_list[1:3] (gets elements at index 1 and 2).
 
 Modifying lists: Changing elements my_list[1] = "world".
 
-Common List Methods: .append(), .insert(), .pop(), .remove(), .sort(), len().
+Common List Methods: .append(), .insert(), .pop(), .remove(), .sort(), len(). 

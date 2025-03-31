@@ -12,4 +12,4 @@ print(data_points)       # Output: [10, 25, 8, 42, 18, 50]
 data_points.sort()       # Sort in place
 print(data_points)       # Output: [8, 10, 18, 25, 42, 50]
 
-print(len(data_points))  # Output: 6 (number of elements)
+print(len(data_points))  # Output: 6 (number of elements) 

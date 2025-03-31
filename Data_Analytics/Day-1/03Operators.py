@@ -12,4 +12,4 @@ print(x == 10) # True
 print(x != y) # True
 
 print(x > 5 and y < 5) # True
-print(not is_valid)    # False
+print(not is_valid)    # False 
